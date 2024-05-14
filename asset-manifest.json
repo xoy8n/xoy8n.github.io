@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f9283cd.css",
+    "main.js": "/static/js/main.ae5fc651.js",
+    "static/js/453.d3710559.chunk.js": "/static/js/453.d3710559.chunk.js",
+    "static/media/pc-TW-myshop.png": "/static/media/pc-TW-myshop.3447271ecdc95a15a539.png",
+    "static/media/pc-TDS-order-develop.png": "/static/media/pc-TDS-order-develop.601d7e41b266ce96d165.png",
+    "static/media/pc-TDS-eSIM-tab.png": "/static/media/pc-TDS-eSIM-tab.783d9fab90fa5f450821.png",
+    "static/media/pc-TDS-seller-develop.png": "/static/media/pc-TDS-seller-develop.ec45870765b9057d003d.png",
+    "static/media/avatar2.png": "/static/media/avatar2.f69d05cec0dabc68f045.png",
+    "static/media/pc-iphone.png": "/static/media/pc-iphone.10bee536e31fd4f6f09b.png",
+    "static/media/avatar3.png": "/static/media/avatar3.f16d71f1bdbcb36f2380.png",
+    "static/media/pc-seashore.png": "/static/media/pc-seashore.5454a7e6d7a48114c135.png",
+    "index.html": "/index.html",
+    "main.6f9283cd.css.map": "/static/css/main.6f9283cd.css.map",
+    "main.ae5fc651.js.map": "/static/js/main.ae5fc651.js.map",
+    "453.d3710559.chunk.js.map": "/static/js/453.d3710559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9283cd.css",
+    "static/js/main.ae5fc651.js"
+  ]
+}
