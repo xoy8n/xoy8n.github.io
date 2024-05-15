@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e6a347e.css",
-    "main.js": "/static/js/main.771d66b1.js",
+    "main.css": "/static/css/main.1cdd636a.css",
+    "main.js": "/static/js/main.f16e4d4d.js",
     "static/js/453.d3710559.chunk.js": "/static/js/453.d3710559.chunk.js",
+    "static/media/pc-universe.png": "/static/media/pc-universe.9f2bc3550bb33ce53b80.png",
     "static/media/pc-TW-myshop.png": "/static/media/pc-TW-myshop.3447271ecdc95a15a539.png",
     "static/media/pc-TDS-order-develop.png": "/static/media/pc-TDS-order-develop.601d7e41b266ce96d165.png",
     "static/media/pc-TDS-eSIM-tab.png": "/static/media/pc-TDS-eSIM-tab.783d9fab90fa5f450821.png",
     "static/media/pc-TDS-seller-develop.png": "/static/media/pc-TDS-seller-develop.ec45870765b9057d003d.png",
+    "static/media/pc-youtube.png": "/static/media/pc-youtube.4b20a96612a21baaba2c.png",
     "static/media/avatar2.png": "/static/media/avatar2.f69d05cec0dabc68f045.png",
-    "static/media/pc-iphone.png": "/static/media/pc-iphone.10bee536e31fd4f6f09b.png",
     "static/media/avatar3.png": "/static/media/avatar3.f16d71f1bdbcb36f2380.png",
     "static/media/pc-seashore.png": "/static/media/pc-seashore.5454a7e6d7a48114c135.png",
+    "static/media/pc-kakao.png": "/static/media/pc-kakao.08469fd10d7f2a6525b5.png",
     "index.html": "/index.html",
-    "main.5e6a347e.css.map": "/static/css/main.5e6a347e.css.map",
-    "main.771d66b1.js.map": "/static/js/main.771d66b1.js.map",
+    "main.1cdd636a.css.map": "/static/css/main.1cdd636a.css.map",
+    "main.f16e4d4d.js.map": "/static/js/main.f16e4d4d.js.map",
     "453.d3710559.chunk.js.map": "/static/js/453.d3710559.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e6a347e.css",
-    "static/js/main.771d66b1.js"
+    "static/css/main.1cdd636a.css",
+    "static/js/main.f16e4d4d.js"
   ]
 }
